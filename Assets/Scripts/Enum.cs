@@ -1,0 +1,25 @@
+
+public enum Type
+{
+    NYOROZO,
+    HORSEA,
+    TOTODILE,
+    BUTTERFREE,
+    NYOROTONO,
+    MARILL,
+    CHIKORITA,
+    GLIGAR,
+    LEDYBA,
+    POKEMON1,
+    JOLTEON,
+    TOGEPI,
+    TOGETIC,
+    NIDORAN,
+    PONYTA,
+    NATU,
+    DELIBIRD,
+    AMPHAROS,
+    CORSOLA,
+    CATERPIE,
+    BEEDRILL
+}
